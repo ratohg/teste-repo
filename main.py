@@ -1,3 +1,3 @@
-for i in range(0, 5):
-    print(i * 2)
+def sum(n1=0, n2=0):
+    print(n1 +n2)
     
